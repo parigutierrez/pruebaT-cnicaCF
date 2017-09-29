@@ -1,0 +1,13 @@
+body{
+	width: 100%;
+}
+nav{
+	background-color: white;
+	height: 2rem;
+	padding-top: .7rem;
+	margin-top: -.5rem;
+}
+a{
+	text-decoration: none;
+	margin: 0.5rem;
+}
